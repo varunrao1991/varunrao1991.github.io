@@ -2,7 +2,7 @@
 
 Personal portfolio website showcasing my professional journey, experience, and projects in AI, Computer Vision, and GPU Programming.
 
-🌐 **Live Site:** [varunarao.com](https://varunarao.com)
+🌐 **Live Site:** [varunrao.com](https://varunrao.com)
 
 ## About
 
